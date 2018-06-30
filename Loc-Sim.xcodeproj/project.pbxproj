@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		739179E220E73B8C007D0156 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739179E120E73B8C007D0156 /* AppDelegate.swift */; };
+		739179E420E73B8C007D0156 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739179E320E73B8C007D0156 /* ViewController.swift */; };
+		739179E720E73B8C007D0156 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 739179E520E73B8C007D0156 /* Main.storyboard */; };
+		739179E920E73B8C007D0156 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 739179E820E73B8C007D0156 /* Assets.xcassets */; };
+		739179EC20E73B8C007D0156 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 739179EA20E73B8C007D0156 /* LaunchScreen.storyboard */; };
+		739179F720E73B8C007D0156 /* Loc_SimTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739179F620E73B8C007D0156 /* Loc_SimTests.swift */; };
+		73917A0220E73B8C007D0156 /* Loc_SimUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73917A0120E73B8C007D0156 /* Loc_SimUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		739179F320E73B8C007D0156 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 739179D620E73B8C007D0156 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 739179DD20E73B8C007D0156;
+			remoteInfo = "Loc-Sim";
+		};
+		739179FE20E73B8C007D0156 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 739179D620E73B8C007D0156 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 739179DD20E73B8C007D0156;
+			remoteInfo = "Loc-Sim";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		739179DE20E73B8C007D0156 /* Loc-Sim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Loc-Sim.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		739179E120E73B8C007D0156 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		739179E320E73B8C007D0156 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		739179E620E73B8C007D0156 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		739179E820E73B8C007D0156 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		739179EB20E73B8C007D0156 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		739179ED20E73B8C007D0156 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		739179F220E73B8C007D0156 /* Loc-SimTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Loc-SimTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		739179F620E73B8C007D0156 /* Loc_SimTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loc_SimTests.swift; sourceTree = "<group>"; };
+		739179F820E73B8C007D0156 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		739179FD20E73B8C007D0156 /* Loc-SimUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Loc-SimUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		73917A0120E73B8C007D0156 /* Loc_SimUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loc_SimUITests.swift; sourceTree = "<group>"; };
+		73917A0320E73B8C007D0156 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		739179DB20E73B8C007D0156 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		739179EF20E73B8C007D0156 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		739179FA20E73B8C007D0156 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		739179D520E73B8C007D0156 = {
+			isa = PBXGroup;
+			children = (
+				739179E020E73B8C007D0156 /* Loc-Sim */,
+				739179F520E73B8C007D0156 /* Loc-SimTests */,
+				73917A0020E73B8C007D0156 /* Loc-SimUITests */,
+				739179DF20E73B8C007D0156 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		739179DF20E73B8C007D0156 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				739179DE20E73B8C007D0156 /* Loc-Sim.app */,
+				739179F220E73B8C007D0156 /* Loc-SimTests.xctest */,
+				739179FD20E73B8C007D0156 /* Loc-SimUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		739179E020E73B8C007D0156 /* Loc-Sim */ = {
+			isa = PBXGroup;
+			children = (
+				739179E120E73B8C007D0156 /* AppDelegate.swift */,
+				739179E320E73B8C007D0156 /* ViewController.swift */,
+				739179E520E73B8C007D0156 /* Main.storyboard */,
+				739179E820E73B8C007D0156 /* Assets.xcassets */,
+				739179EA20E73B8C007D0156 /* LaunchScreen.storyboard */,
+				739179ED20E73B8C007D0156 /* Info.plist */,
+			);
+			path = "Loc-Sim";
+			sourceTree = "<group>";
+		};
+		739179F520E73B8C007D0156 /* Loc-SimTests */ = {
+			isa = PBXGroup;
+			children = (
+				739179F620E73B8C007D0156 /* Loc_SimTests.swift */,
+				739179F820E73B8C007D0156 /* Info.plist */,
+			);
+			path = "Loc-SimTests";
+			sourceTree = "<group>";
+		};
+		73917A0020E73B8C007D0156 /* Loc-SimUITests */ = {
+			isa = PBXGroup;
+			children = (
+				73917A0120E73B8C007D0156 /* Loc_SimUITests.swift */,
+				73917A0320E73B8C007D0156 /* Info.plist */,
+			);
+			path = "Loc-SimUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		739179DD20E73B8C007D0156 /* Loc-Sim */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 73917A0620E73B8C007D0156 /* Build configuration list for PBXNativeTarget "Loc-Sim" */;
+			buildPhases = (
+				739179DA20E73B8C007D0156 /* Sources */,
+				739179DB20E73B8C007D0156 /* Frameworks */,
+				739179DC20E73B8C007D0156 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Loc-Sim";
+			productName = "Loc-Sim";
+			productReference = 739179DE20E73B8C007D0156 /* Loc-Sim.app */;
+			productType = "com.apple.product-type.application";
+		};
+		739179F120E73B8C007D0156 /* Loc-SimTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 73917A0920E73B8C007D0156 /* Build configuration list for PBXNativeTarget "Loc-SimTests" */;
+			buildPhases = (
+				739179EE20E73B8C007D0156 /* Sources */,
+				739179EF20E73B8C007D0156 /* Frameworks */,
+				739179F020E73B8C007D0156 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				739179F420E73B8C007D0156 /* PBXTargetDependency */,
+			);
+			name = "Loc-SimTests";
+			productName = "Loc-SimTests";
+			productReference = 739179F220E73B8C007D0156 /* Loc-SimTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		739179FC20E73B8C007D0156 /* Loc-SimUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 73917A0C20E73B8C007D0156 /* Build configuration list for PBXNativeTarget "Loc-SimUITests" */;
+			buildPhases = (
+				739179F920E73B8C007D0156 /* Sources */,
+				739179FA20E73B8C007D0156 /* Frameworks */,
+				739179FB20E73B8C007D0156 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				739179FF20E73B8C007D0156 /* PBXTargetDependency */,
+			);
+			name = "Loc-SimUITests";
+			productName = "Loc-SimUITests";
+			productReference = 739179FD20E73B8C007D0156 /* Loc-SimUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		739179D620E73B8C007D0156 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0900;
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = AnimatorJoe;
+				TargetAttributes = {
+					739179DD20E73B8C007D0156 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+					};
+					739179F120E73B8C007D0156 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 739179DD20E73B8C007D0156;
+					};
+					739179FC20E73B8C007D0156 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 739179DD20E73B8C007D0156;
+					};
+				};
+			};
+			buildConfigurationList = 739179D920E73B8C007D0156 /* Build configuration list for PBXProject "Loc-Sim" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 739179D520E73B8C007D0156;
+			productRefGroup = 739179DF20E73B8C007D0156 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				739179DD20E73B8C007D0156 /* Loc-Sim */,
+				739179F120E73B8C007D0156 /* Loc-SimTests */,
+				739179FC20E73B8C007D0156 /* Loc-SimUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		739179DC20E73B8C007D0156 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				739179EC20E73B8C007D0156 /* LaunchScreen.storyboard in Resources */,
+				739179E920E73B8C007D0156 /* Assets.xcassets in Resources */,
+				739179E720E73B8C007D0156 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		739179F020E73B8C007D0156 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		739179FB20E73B8C007D0156 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		739179DA20E73B8C007D0156 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				739179E420E73B8C007D0156 /* ViewController.swift in Sources */,
+				739179E220E73B8C007D0156 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		739179EE20E73B8C007D0156 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				739179F720E73B8C007D0156 /* Loc_SimTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		739179F920E73B8C007D0156 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				73917A0220E73B8C007D0156 /* Loc_SimUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		739179F420E73B8C007D0156 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 739179DD20E73B8C007D0156 /* Loc-Sim */;
+			targetProxy = 739179F320E73B8C007D0156 /* PBXContainerItemProxy */;
+		};
+		739179FF20E73B8C007D0156 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 739179DD20E73B8C007D0156 /* Loc-Sim */;
+			targetProxy = 739179FE20E73B8C007D0156 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		739179E520E73B8C007D0156 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				739179E620E73B8C007D0156 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		739179EA20E73B8C007D0156 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				739179EB20E73B8C007D0156 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		73917A0420E73B8C007D0156 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		73917A0520E73B8C007D0156 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		73917A0720E73B8C007D0156 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9SR8L2XE3A;
+				INFOPLIST_FILE = "Loc-Sim/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.animatorjoe.Loc-Sim";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		73917A0820E73B8C007D0156 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9SR8L2XE3A;
+				INFOPLIST_FILE = "Loc-Sim/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.animatorjoe.Loc-Sim";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		73917A0A20E73B8C007D0156 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9SR8L2XE3A;
+				INFOPLIST_FILE = "Loc-SimTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.animatorjoe.Loc-SimTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Loc-Sim.app/Loc-Sim";
+			};
+			name = Debug;
+		};
+		73917A0B20E73B8C007D0156 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9SR8L2XE3A;
+				INFOPLIST_FILE = "Loc-SimTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.animatorjoe.Loc-SimTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Loc-Sim.app/Loc-Sim";
+			};
+			name = Release;
+		};
+		73917A0D20E73B8C007D0156 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9SR8L2XE3A;
+				INFOPLIST_FILE = "Loc-SimUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.animatorjoe.Loc-SimUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Loc-Sim";
+			};
+			name = Debug;
+		};
+		73917A0E20E73B8C007D0156 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9SR8L2XE3A;
+				INFOPLIST_FILE = "Loc-SimUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.animatorjoe.Loc-SimUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Loc-Sim";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		739179D920E73B8C007D0156 /* Build configuration list for PBXProject "Loc-Sim" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				73917A0420E73B8C007D0156 /* Debug */,
+				73917A0520E73B8C007D0156 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		73917A0620E73B8C007D0156 /* Build configuration list for PBXNativeTarget "Loc-Sim" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				73917A0720E73B8C007D0156 /* Debug */,
+				73917A0820E73B8C007D0156 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		73917A0920E73B8C007D0156 /* Build configuration list for PBXNativeTarget "Loc-SimTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				73917A0A20E73B8C007D0156 /* Debug */,
+				73917A0B20E73B8C007D0156 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		73917A0C20E73B8C007D0156 /* Build configuration list for PBXNativeTarget "Loc-SimUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				73917A0D20E73B8C007D0156 /* Debug */,
+				73917A0E20E73B8C007D0156 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 739179D620E73B8C007D0156 /* Project object */;
+}
