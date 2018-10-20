@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7314CDA920E73FC3007FE948 /* Somalia.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7314CDA820E73FBF007FE948 /* Somalia.gpx */; };
+		7314CDAB20E740E6007FE948 /* Svalbard.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7314CDAA20E740E4007FE948 /* Svalbard.gpx */; };
+		7314CDAE20E74144007FE948 /* San Marcos.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7314CDAD20E7413B007FE948 /* San Marcos.gpx */; };
+		7314CDB020E74181007FE948 /* San Marcos Texas State.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7314CDAF20E7417A007FE948 /* San Marcos Texas State.gpx */; };
+		7314CDB520E74279007FE948 /* Antarctica.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7314CDB420E7425A007FE948 /* Antarctica.gpx */; };
+		7314CDB620E74279007FE948 /* Greenland.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7314CDB320E7425A007FE948 /* Greenland.gpx */; };
+		7314CDB720E74279007FE948 /* Mid Pacific.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7314CDB220E74259007FE948 /* Mid Pacific.gpx */; };
+		7314CDB820E74279007FE948 /* Tajikistan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7314CDB120E74259007FE948 /* Tajikistan.gpx */; };
+		7318D394213A445300FA9FC0 /* Alexandria, Egypt.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7318D393213A445300FA9FC0 /* Alexandria, Egypt.gpx */; };
+		733E75DD21042DFE00BB67B5 /* Greenland (South).gpx in Resources */ = {isa = PBXBuildFile; fileRef = 733E75DC21042DFE00BB67B5 /* Greenland (South).gpx */; };
+		733E75DF21042EE100BB67B5 /* Chornobyl, Ukraine.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 733E75DE21042EE100BB67B5 /* Chornobyl, Ukraine.gpx */; };
 		739179E220E73B8C007D0156 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739179E120E73B8C007D0156 /* AppDelegate.swift */; };
 		739179E420E73B8C007D0156 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739179E320E73B8C007D0156 /* ViewController.swift */; };
 		739179E720E73B8C007D0156 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 739179E520E73B8C007D0156 /* Main.storyboard */; };
@@ -14,6 +25,15 @@
 		739179EC20E73B8C007D0156 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 739179EA20E73B8C007D0156 /* LaunchScreen.storyboard */; };
 		739179F720E73B8C007D0156 /* Loc_SimTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739179F620E73B8C007D0156 /* Loc_SimTests.swift */; };
 		73917A0220E73B8C007D0156 /* Loc_SimUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73917A0120E73B8C007D0156 /* Loc_SimUITests.swift */; };
+		739FC3C12144B267001B8AC5 /* Baghdad, Iraq.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 739FC3C02144B267001B8AC5 /* Baghdad, Iraq.gpx */; };
+		73B72AB720E745290049A092 /* 新疆.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 73B72AB620E745230049A092 /* 新疆.gpx */; };
+		73B72AB820E745290049A092 /* 朝鲜.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 73B72AB520E745220049A092 /* 朝鲜.gpx */; };
+		73D36AC020E7B2EE002CB473 /* Gaza Strip.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 73D36ABF20E7B2E5002CB473 /* Gaza Strip.gpx */; };
+		73D36AC320E7C3D3002CB473 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73D36AC220E7C3D3002CB473 /* CoreLocation.framework */; };
+		73D36AC720E87775002CB473 /* 平壤，朝鲜.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 73D36AC620E87772002CB473 /* 平壤，朝鲜.gpx */; };
+		73E0B95A2102E773005C8820 /* Allepo, Syria.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 73E0B9572102E773005C8820 /* Allepo, Syria.gpx */; };
+		73E0B95B2102E773005C8820 /* Damascus, Syria.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 73E0B9582102E773005C8820 /* Damascus, Syria.gpx */; };
+		73EDFFE9211604FA0098AA43 /* North Pole.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 73EDFFE8211604FA0098AA43 /* North Pole.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +54,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7313791920F069B200C78B6F /* PyongSong, North Korea.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "PyongSong, North Korea.gpx"; sourceTree = "<group>"; };
+		7314CDA820E73FBF007FE948 /* Somalia.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Somalia.gpx; sourceTree = "<group>"; };
+		7314CDAA20E740E4007FE948 /* Svalbard.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Svalbard.gpx; sourceTree = "<group>"; };
+		7314CDAD20E7413B007FE948 /* San Marcos.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "San Marcos.gpx"; sourceTree = "<group>"; };
+		7314CDAF20E7417A007FE948 /* San Marcos Texas State.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "San Marcos Texas State.gpx"; sourceTree = "<group>"; };
+		7314CDB120E74259007FE948 /* Tajikistan.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Tajikistan.gpx; sourceTree = "<group>"; };
+		7314CDB220E74259007FE948 /* Mid Pacific.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Mid Pacific.gpx"; sourceTree = "<group>"; };
+		7314CDB320E7425A007FE948 /* Greenland.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Greenland.gpx; sourceTree = "<group>"; };
+		7314CDB420E7425A007FE948 /* Antarctica.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Antarctica.gpx; sourceTree = "<group>"; };
+		7318D393213A445300FA9FC0 /* Alexandria, Egypt.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Alexandria, Egypt.gpx"; sourceTree = "<group>"; };
+		7324E0BC20FD10BF00108640 /* Karagandy, Kazakstan.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Karagandy, Kazakstan.gpx"; sourceTree = "<group>"; };
+		7324E0BD20FD118700108640 /* Astana, Kazakstan.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Astana, Kazakstan.gpx"; sourceTree = "<group>"; };
+		733E75DC21042DFE00BB67B5 /* Greenland (South).gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Greenland (South).gpx"; sourceTree = "<group>"; };
+		733E75DE21042EE100BB67B5 /* Chornobyl, Ukraine.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Chornobyl, Ukraine.gpx"; sourceTree = "<group>"; };
 		739179DE20E73B8C007D0156 /* Loc-Sim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Loc-Sim.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		739179E120E73B8C007D0156 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		739179E320E73B8C007D0156 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +81,25 @@
 		739179FD20E73B8C007D0156 /* Loc-SimUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Loc-SimUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73917A0120E73B8C007D0156 /* Loc_SimUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loc_SimUITests.swift; sourceTree = "<group>"; };
 		73917A0320E73B8C007D0156 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7398004420EF102000DC4607 /* Syria.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Syria.gpx; sourceTree = "<group>"; };
+		7398004520EF108800DC4607 /* Zimbabwe.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Zimbabwe.gpx; sourceTree = "<group>"; };
+		7398004620EF110500DC4607 /* Mosul, Iraq.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Mosul, Iraq.gpx"; sourceTree = "<group>"; };
+		7398004720EF113500DC4607 /* Kashmir.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Kashmir.gpx; sourceTree = "<group>"; };
+		7398004820EF119500DC4607 /* Vladivostok.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Vladivostok.gpx; sourceTree = "<group>"; };
+		7398004920EF11E200DC4607 /* Kyong Song, North Korea.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Kyong Song, North Korea.gpx"; sourceTree = "<group>"; };
+		7398004A20EF125300DC4607 /* Wonsan, North Korea.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Wonsan, North Korea.gpx"; sourceTree = "<group>"; };
+		7398004B20EF12BB00DC4607 /* Rutba, Iraq.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Rutba, Iraq.gpx"; sourceTree = "<group>"; };
+		7398004C20EFBFEA00DC4607 /* Kandahar, Afghanistan.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Kandahar, Afghanistan.gpx"; sourceTree = "<group>"; };
+		7398004D20EFC03900DC4607 /* Kabul, Afghanistan.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Kabul, Afghanistan.gpx"; sourceTree = "<group>"; };
+		739FC3C02144B267001B8AC5 /* Baghdad, Iraq.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Baghdad, Iraq.gpx"; sourceTree = "<group>"; };
+		73B72AB520E745220049A092 /* 朝鲜.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "朝鲜.gpx"; sourceTree = "<group>"; };
+		73B72AB620E745230049A092 /* 新疆.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "新疆.gpx"; sourceTree = "<group>"; };
+		73D36ABF20E7B2E5002CB473 /* Gaza Strip.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Gaza Strip.gpx"; sourceTree = "<group>"; };
+		73D36AC220E7C3D3002CB473 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		73D36AC620E87772002CB473 /* 平壤，朝鲜.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "平壤，朝鲜.gpx"; sourceTree = "<group>"; };
+		73E0B9572102E773005C8820 /* Allepo, Syria.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Allepo, Syria.gpx"; sourceTree = "<group>"; };
+		73E0B9582102E773005C8820 /* Damascus, Syria.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Damascus, Syria.gpx"; sourceTree = "<group>"; };
+		73EDFFE8211604FA0098AA43 /* North Pole.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "North Pole.gpx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +107,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73D36AC320E7C3D3002CB473 /* CoreLocation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,13 +128,54 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7314CDAC20E7410F007FE948 /* Locations */ = {
+			isa = PBXGroup;
+			children = (
+				7318D393213A445300FA9FC0 /* Alexandria, Egypt.gpx */,
+				73D36AC620E87772002CB473 /* 平壤，朝鲜.gpx */,
+				733E75DE21042EE100BB67B5 /* Chornobyl, Ukraine.gpx */,
+				73B72AB520E745220049A092 /* 朝鲜.gpx */,
+				7313791920F069B200C78B6F /* PyongSong, North Korea.gpx */,
+				7398004A20EF125300DC4607 /* Wonsan, North Korea.gpx */,
+				7398004920EF11E200DC4607 /* Kyong Song, North Korea.gpx */,
+				73EDFFE8211604FA0098AA43 /* North Pole.gpx */,
+				7398004D20EFC03900DC4607 /* Kabul, Afghanistan.gpx */,
+				7398004C20EFBFEA00DC4607 /* Kandahar, Afghanistan.gpx */,
+				73D36ABF20E7B2E5002CB473 /* Gaza Strip.gpx */,
+				739FC3C02144B267001B8AC5 /* Baghdad, Iraq.gpx */,
+				7398004620EF110500DC4607 /* Mosul, Iraq.gpx */,
+				7398004B20EF12BB00DC4607 /* Rutba, Iraq.gpx */,
+				7398004420EF102000DC4607 /* Syria.gpx */,
+				73E0B9572102E773005C8820 /* Allepo, Syria.gpx */,
+				73E0B9582102E773005C8820 /* Damascus, Syria.gpx */,
+				7314CDA820E73FBF007FE948 /* Somalia.gpx */,
+				7314CDB420E7425A007FE948 /* Antarctica.gpx */,
+				733E75DC21042DFE00BB67B5 /* Greenland (South).gpx */,
+				7314CDB320E7425A007FE948 /* Greenland.gpx */,
+				7324E0BD20FD118700108640 /* Astana, Kazakstan.gpx */,
+				7324E0BC20FD10BF00108640 /* Karagandy, Kazakstan.gpx */,
+				7314CDAA20E740E4007FE948 /* Svalbard.gpx */,
+				7398004720EF113500DC4607 /* Kashmir.gpx */,
+				7398004520EF108800DC4607 /* Zimbabwe.gpx */,
+				7398004820EF119500DC4607 /* Vladivostok.gpx */,
+				73B72AB620E745230049A092 /* 新疆.gpx */,
+				7314CDB220E74259007FE948 /* Mid Pacific.gpx */,
+				7314CDB120E74259007FE948 /* Tajikistan.gpx */,
+				7314CDAD20E7413B007FE948 /* San Marcos.gpx */,
+				7314CDAF20E7417A007FE948 /* San Marcos Texas State.gpx */,
+			);
+			path = Locations;
+			sourceTree = "<group>";
+		};
 		739179D520E73B8C007D0156 = {
 			isa = PBXGroup;
 			children = (
+				7314CDAC20E7410F007FE948 /* Locations */,
 				739179E020E73B8C007D0156 /* Loc-Sim */,
 				739179F520E73B8C007D0156 /* Loc-SimTests */,
 				73917A0020E73B8C007D0156 /* Loc-SimUITests */,
 				739179DF20E73B8C007D0156 /* Products */,
+				73D36AC120E7C3D3002CB473 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -123,6 +218,14 @@
 				73917A0320E73B8C007D0156 /* Info.plist */,
 			);
 			path = "Loc-SimUITests";
+			sourceTree = "<group>";
+		};
+		73D36AC120E7C3D3002CB473 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				73D36AC220E7C3D3002CB473 /* CoreLocation.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -188,7 +291,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = AnimatorJoe;
 				TargetAttributes = {
 					739179DD20E73B8C007D0156 = {
@@ -232,8 +335,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73B72AB820E745290049A092 /* 朝鲜.gpx in Resources */,
+				733E75DD21042DFE00BB67B5 /* Greenland (South).gpx in Resources */,
+				7314CDAB20E740E6007FE948 /* Svalbard.gpx in Resources */,
+				7318D394213A445300FA9FC0 /* Alexandria, Egypt.gpx in Resources */,
+				73D36AC020E7B2EE002CB473 /* Gaza Strip.gpx in Resources */,
+				73E0B95B2102E773005C8820 /* Damascus, Syria.gpx in Resources */,
+				73D36AC720E87775002CB473 /* 平壤，朝鲜.gpx in Resources */,
 				739179EC20E73B8C007D0156 /* LaunchScreen.storyboard in Resources */,
+				73EDFFE9211604FA0098AA43 /* North Pole.gpx in Resources */,
+				7314CDB820E74279007FE948 /* Tajikistan.gpx in Resources */,
+				7314CDB020E74181007FE948 /* San Marcos Texas State.gpx in Resources */,
+				7314CDB720E74279007FE948 /* Mid Pacific.gpx in Resources */,
 				739179E920E73B8C007D0156 /* Assets.xcassets in Resources */,
+				7314CDB620E74279007FE948 /* Greenland.gpx in Resources */,
+				7314CDA920E73FC3007FE948 /* Somalia.gpx in Resources */,
+				7314CDB520E74279007FE948 /* Antarctica.gpx in Resources */,
+				739FC3C12144B267001B8AC5 /* Baghdad, Iraq.gpx in Resources */,
+				73E0B95A2102E773005C8820 /* Allepo, Syria.gpx in Resources */,
+				73B72AB720E745290049A092 /* 新疆.gpx in Resources */,
+				7314CDAE20E74144007FE948 /* San Marcos.gpx in Resources */,
+				733E75DF21042EE100BB67B5 /* Chornobyl, Ukraine.gpx in Resources */,
 				739179E720E73B8C007D0156 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -329,6 +451,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -336,6 +459,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -386,6 +510,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -393,6 +518,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
