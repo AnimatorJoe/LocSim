@@ -25,6 +25,8 @@
 		739179EC20E73B8C007D0156 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 739179EA20E73B8C007D0156 /* LaunchScreen.storyboard */; };
 		739179F720E73B8C007D0156 /* Loc_SimTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 739179F620E73B8C007D0156 /* Loc_SimTests.swift */; };
 		73917A0220E73B8C007D0156 /* Loc_SimUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73917A0120E73B8C007D0156 /* Loc_SimUITests.swift */; };
+		7391DCA623C6CA290051A1B9 /* Somewhere, Iran.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7391DCA523C6CA290051A1B9 /* Somewhere, Iran.gpx */; };
+		739C5F66223DFBEE008782B5 /* Caracas, Venezuela.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 739C5F65223DFBEE008782B5 /* Caracas, Venezuela.gpx */; };
 		739FC3C12144B267001B8AC5 /* Baghdad, Iraq.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 739FC3C02144B267001B8AC5 /* Baghdad, Iraq.gpx */; };
 		73B72AB720E745290049A092 /* 新疆.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 73B72AB620E745230049A092 /* 新疆.gpx */; };
 		73B72AB820E745290049A092 /* 朝鲜.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 73B72AB520E745220049A092 /* 朝鲜.gpx */; };
@@ -81,6 +83,7 @@
 		739179FD20E73B8C007D0156 /* Loc-SimUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Loc-SimUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73917A0120E73B8C007D0156 /* Loc_SimUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loc_SimUITests.swift; sourceTree = "<group>"; };
 		73917A0320E73B8C007D0156 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7391DCA523C6CA290051A1B9 /* Somewhere, Iran.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Somewhere, Iran.gpx"; sourceTree = "<group>"; };
 		7398004420EF102000DC4607 /* Syria.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Syria.gpx; sourceTree = "<group>"; };
 		7398004520EF108800DC4607 /* Zimbabwe.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Zimbabwe.gpx; sourceTree = "<group>"; };
 		7398004620EF110500DC4607 /* Mosul, Iraq.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Mosul, Iraq.gpx"; sourceTree = "<group>"; };
@@ -91,6 +94,7 @@
 		7398004B20EF12BB00DC4607 /* Rutba, Iraq.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Rutba, Iraq.gpx"; sourceTree = "<group>"; };
 		7398004C20EFBFEA00DC4607 /* Kandahar, Afghanistan.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Kandahar, Afghanistan.gpx"; sourceTree = "<group>"; };
 		7398004D20EFC03900DC4607 /* Kabul, Afghanistan.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "Kabul, Afghanistan.gpx"; sourceTree = "<group>"; };
+		739C5F65223DFBEE008782B5 /* Caracas, Venezuela.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Caracas, Venezuela.gpx"; sourceTree = "<group>"; };
 		739FC3C02144B267001B8AC5 /* Baghdad, Iraq.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Baghdad, Iraq.gpx"; sourceTree = "<group>"; };
 		73B72AB520E745220049A092 /* 朝鲜.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "朝鲜.gpx"; sourceTree = "<group>"; };
 		73B72AB620E745230049A092 /* 新疆.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = "新疆.gpx"; sourceTree = "<group>"; };
@@ -131,10 +135,12 @@
 		7314CDAC20E7410F007FE948 /* Locations */ = {
 			isa = PBXGroup;
 			children = (
+				7391DCA523C6CA290051A1B9 /* Somewhere, Iran.gpx */,
 				7318D393213A445300FA9FC0 /* Alexandria, Egypt.gpx */,
 				73D36AC620E87772002CB473 /* 平壤，朝鲜.gpx */,
 				733E75DE21042EE100BB67B5 /* Chornobyl, Ukraine.gpx */,
 				73B72AB520E745220049A092 /* 朝鲜.gpx */,
+				739C5F65223DFBEE008782B5 /* Caracas, Venezuela.gpx */,
 				7313791920F069B200C78B6F /* PyongSong, North Korea.gpx */,
 				7398004A20EF125300DC4607 /* Wonsan, North Korea.gpx */,
 				7398004920EF11E200DC4607 /* Kyong Song, North Korea.gpx */,
@@ -340,6 +346,7 @@
 				7314CDAB20E740E6007FE948 /* Svalbard.gpx in Resources */,
 				7318D394213A445300FA9FC0 /* Alexandria, Egypt.gpx in Resources */,
 				73D36AC020E7B2EE002CB473 /* Gaza Strip.gpx in Resources */,
+				7391DCA623C6CA290051A1B9 /* Somewhere, Iran.gpx in Resources */,
 				73E0B95B2102E773005C8820 /* Damascus, Syria.gpx in Resources */,
 				73D36AC720E87775002CB473 /* 平壤，朝鲜.gpx in Resources */,
 				739179EC20E73B8C007D0156 /* LaunchScreen.storyboard in Resources */,
@@ -355,6 +362,7 @@
 				73E0B95A2102E773005C8820 /* Allepo, Syria.gpx in Resources */,
 				73B72AB720E745290049A092 /* 新疆.gpx in Resources */,
 				7314CDAE20E74144007FE948 /* San Marcos.gpx in Resources */,
+				739C5F66223DFBEE008782B5 /* Caracas, Venezuela.gpx in Resources */,
 				733E75DF21042EE100BB67B5 /* Chornobyl, Ukraine.gpx in Resources */,
 				739179E720E73B8C007D0156 /* Main.storyboard in Resources */,
 			);
